@@ -1,4 +1,4 @@
-git remote set-url origin git@github.com:YOUR-USERNAME/ultraCript.git
+git remote set-url origin git@github.com:diogolourencodev/ultraCript.git
 
 git checkout --orphan new-branch
 git add .
