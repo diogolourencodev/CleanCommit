@@ -1,0 +1,1 @@
+You'll need to have your SSH key configured to avoid errors, as I'm migrating my account, which is causing a lot of 'access denied' errors. If you don't have one, you probably won't need to use the first command.
